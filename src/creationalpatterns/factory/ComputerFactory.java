@@ -1,4 +1,4 @@
-package factory;
+package creationalpatterns.factory;
 
 /*
     Factory design pattern is used when we have a super class with multiple subclasses and based on input,

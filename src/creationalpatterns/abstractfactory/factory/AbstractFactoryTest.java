@@ -1,4 +1,4 @@
-package abstractfactory.factory;
+package creationalpatterns.abstractfactory.factory;
 
 public class AbstractFactoryTest
 {

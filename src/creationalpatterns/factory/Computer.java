@@ -1,4 +1,4 @@
-package factory;
+package creationalpatterns.factory;
 
 public abstract class Computer
 {

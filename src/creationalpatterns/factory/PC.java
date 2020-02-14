@@ -1,6 +1,6 @@
-package abstractfactory.factory;
+package creationalpatterns.factory;
 
-public class Server extends Computer
+public class PC extends Computer
 {
   private String ram;
   
@@ -8,7 +8,7 @@ public class Server extends Computer
   
   private String cpu;
   
-  public Server(String ram, String hdd, String cpu)
+  public PC(String ram, String hdd, String cpu)
   {
     this.ram = ram;
     this.hdd = hdd;
